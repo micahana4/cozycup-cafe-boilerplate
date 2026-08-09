@@ -18,7 +18,7 @@ This website showcases both the authors' knowledge on HTML, CSS, and Markdown co
 
 ## 🏠 Home Screen
 
-![Home](img/captures/homescreen.png )
+![Home](img/captures/homescreen.png)
 
 > The landing page introduces Cozy Cup Cafe with a welcoming layout, featured coffee image, and quick navigation to the menu and other pages.
 
@@ -43,13 +43,14 @@ This website showcases both the authors' knowledge on HTML, CSS, and Markdown co
 <br>
 
 # About the Authors
+
 <table align="center">
     <tr>
         <td align="center" >
 <img src="https://github.com/micahana4.png" width=150 style="border-radius:50%">
 
-Name: **Milcahana Montemayor**  
-Email: **milcahanam@gmail.com**
+**Name:** Milcahana Montemayor  
+**Email:** milcahanam@gmail.com
 
 <a href="https://www.facebook.com/milcahana.montemayor.7">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30" alt="Facebook">
@@ -61,8 +62,8 @@ Email: **milcahanam@gmail.com**
 <td align="center" >
 <img src="https://avatars.githubusercontent.com/u/206864463?v=4" width=150 style="border-radius:50%">
 
-Name: **Gabriel Jansmhir Ibarra**  
-Email: **gi686273@gmail.com**
+**Name:** Gabriel Jansmhir Ibarra  
+**Email:** gi686273@gmail.com
 
 <a href="https://www.facebook.com/gabriel.ibarra.4275/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30" alt="Facebook">
@@ -73,11 +74,3 @@ Email: **gi686273@gmail.com**
 </td>
 </tr>
 </table>
-
----
-
-<img src="img" width=150 style="border-radius: 50%" >
-
-
-Name:  
-Email:
